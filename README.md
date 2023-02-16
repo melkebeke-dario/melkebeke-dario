@@ -22,7 +22,7 @@
 - Adobe Animate
 - Adobe InDesign
 
-#How to reach me
+# How to reach me
 
 - :email: melkebekedario@gmail.com
 - :telephone_receiver: +324 71 70 20 33
