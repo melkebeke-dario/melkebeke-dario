@@ -1,16 +1,28 @@
-### Hi there 👋
+# Dario-Melkebeke 
 
-<!--
-**melkebeke-dario/melkebeke-dario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :wave: Welcome to my profile!
 
-Here are some ideas to get you started:
+##### :school: Im a student at Artvelde HS!
+##### :office: Currently working at Group Van Vooren as graphic designer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+## Coding
+
+- CSS
+- HTML
+- Javascript
+
+## Graphic
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Adobe After Effects
+- Adobe Animate
+- Adobe InDesign
+
+#How to reach me
+
+- :email: melkebekedario@gmail.com
+- :telephone_receiver: +324 71 70 20 33
